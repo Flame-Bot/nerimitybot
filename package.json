@@ -1,5 +1,5 @@
 {
-  "name": "nerimitybot",
+  "name": "newbot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nerimity.js": "file:nerimity.js-master",
-    "ts-node": "^10.9.1"
+    "@nerimity/nerimity.js": "^1.0.0"
   }
 }
